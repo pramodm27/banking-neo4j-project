@@ -1,7 +1,7 @@
 # Banking Neo4j Project
 
 ## Overview
-This project generates a synthetic dataset of customers, accounts, and transactions for a real-time banking application. The data is then imported into Neo4j for graph analysis.
+This project generates a synthetic Large dataset of customers, accounts, and transactions for a real-time banking application. The data is then imported into Neo4j for graph analysis.
 
 ## Setup
 
